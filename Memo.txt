@@ -1,0 +1,2 @@
+Type1 = 2023/11/9
+TypeA = Forever
